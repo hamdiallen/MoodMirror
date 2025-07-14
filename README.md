@@ -1,6 +1,10 @@
-MoodMirror uses your webcam to detect your mood in real-time — whether you’re 😊 happy, 😢 sad, 😠 angry, or 😰 stressed — and instantly changes what you see and hear to boost your mood!
 
-If you’re down, it cheers you up with funny GIFs 🤣; feeling stressed? It plays calming music 🎵 and soothing nature scenes 🌿. When you’re happy, it celebrates with dancing emojis 💃🕺 and encouraging words 🎉.
+Real-Time Emotion-Responsive Smart Mirror
 
-MoodMirror is more than a mirror — it’s your daily emotional companion that helps you feel better, stay motivated, and relax, right from your screen.
+MoodMirror is an interactive smart mirror that detects your facial emotions in real-time and changes the screen content accordingly to uplift your mood. Designed to provide positive emotional feedback using just a webcam.
 
+😊 Detects emotions like happy, sad, stressed, angry with MediaPipe and CNN models
+🎬 Shows mood-based visuals: funny GIFs, calming nature scenes, dancing emojis, breathing animations
+🎵 Plays voice prompts and relaxing music to support mental wellbeing
+🪞 Displays a mirror-like camera feed with dynamic interactive reactions
+⚙️ Built with Python, OpenCV, MediaPipe, pygame, and PyQt5/Tkinter
