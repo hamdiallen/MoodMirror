@@ -1,4 +1,5 @@
 #MoodMirror
+
 Real-Time Emotion-Responsive Smart Mirror
 
 MoodMirror is an interactive smart mirror that detects your facial emotions in real-time and changes the screen content accordingly to uplift your mood. Designed to provide positive emotional feedback using just a webcam.
