@@ -1,4 +1,4 @@
-#MoodMirror
+# MoodMirror
 
 Real-Time Emotion-Responsive Smart Mirror
 
